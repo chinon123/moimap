@@ -1,0 +1,12 @@
+name: mapmoi
+title: mapmoi
+username:
+account: dhup
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3082384
+bundleId: 3774622
+url: https://dhup.shinyapps.io/mapmoi/
+when: 1603463632.31905
+asMultiple: FALSE
+asStatic: FALSE
